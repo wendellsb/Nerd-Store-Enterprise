@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\wendell\\desktop\\desenvolvimento\\nerdstoreenterprise\\src\\services\\nse.identidade.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\wendell\\desktop\\desenvolvimento\\nerdstoreenterprise\\src\\services\\nse.identidade.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\wendell\\desktop\\desenvolvimento\\nerdstoreenterprise\\src\\services\\nse.identidade.api\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\wendell\\desktop\\desenvolvimento\\nerdstoreenterprise\\src\\services\\nse.identidade.api\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|c:\\users\\wendell\\desktop\\desenvolvimento\\nerdstoreenterprise\\src\\services\\nse.identidade.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAD654F-D9E6-4E40-8E60-CF1674DBAF9B}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Startup.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Startup.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:17:33.4Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T01:40:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
+              "ToolTip": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T01:27:46.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwD0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:18:58.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\Configuration\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\Wendell\\Desktop\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\Configuration\\SwaggerConfig.cs",
+              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\Configuration\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:19:07.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
