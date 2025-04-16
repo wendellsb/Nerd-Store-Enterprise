@@ -11,6 +11,7 @@ C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Ca
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.AssemblyInfo.cs
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.csproj.CoreCompileInputs.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.sourcelink.json
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.RazorTargetAssemblyInfo.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Carrinho.API.StaticWebAssets.Manifest.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Carrinho.API.StaticWebAssets.Pack.cache

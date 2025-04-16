@@ -11,6 +11,7 @@ C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pa
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.AssemblyInfo.cs
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.csproj.CoreCompileInputs.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.sourcelink.json
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.RazorTargetAssemblyInfo.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pagamento.API.StaticWebAssets.Manifest.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pagamento.API.StaticWebAssets.Pack.cache

@@ -11,6 +11,7 @@ C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Ca
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.AssemblyInfo.cs
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.csproj.CoreCompileInputs.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.sourcelink.json
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.RazorTargetAssemblyInfo.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Catalogo.API.StaticWebAssets.Manifest.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Catalogo.API.StaticWebAssets.Pack.cache

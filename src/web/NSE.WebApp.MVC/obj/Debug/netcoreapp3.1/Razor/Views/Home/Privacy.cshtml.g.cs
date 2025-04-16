@@ -27,7 +27,7 @@ using NSE.WebApp.MVC.Models
 #nullable disable
     ;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"0e00a4445b214863ea51c8985fae1970b43e932712216fa047faf3062bb23445", @"/Views/Home/Privacy.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"e74ec756c258de178a8d5083244dd6d9dcc0bb143094d4eae82461c8072bfa3c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"154837344673e80500ccbf73bc416691154c74d7faa56b2dd982b2de4ad13fc8", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_Home_Privacy : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

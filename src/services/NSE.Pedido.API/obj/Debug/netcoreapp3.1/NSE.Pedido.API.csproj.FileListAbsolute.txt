@@ -11,6 +11,7 @@ C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pe
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.AssemblyInfo.cs
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.csproj.CoreCompileInputs.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.sourcelink.json
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\NSE.Pedido.API.RazorTargetAssemblyInfo.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pedido.API.StaticWebAssets.Manifest.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pedido.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pedido.API.StaticWebAssets.Pack.cache

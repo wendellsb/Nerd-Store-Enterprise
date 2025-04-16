@@ -5,5 +5,6 @@ C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\buildin blocks\
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\buildin blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\buildin blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\buildin blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\buildin blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.sourcelink.json
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\buildin blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
 C:\Users\Wendell\Desktop\Desenvolvimento\NerdStoreEnterprise\src\buildin blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb
